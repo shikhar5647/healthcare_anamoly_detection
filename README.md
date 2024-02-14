@@ -6,8 +6,8 @@
 This project focuses on detecting anomalies in healthcare data using machine learning techniques. The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/tamilsel/healthcare-providers-data/code).
 
 ## Contributors
-- Aditya Sahani
-- Shikhar Dave
+- Aditya Sahani(B22CS0030
+- Shikhar Dave(B22CH032)
 
 ## Technology and Models Used
 - Isolation Forest
