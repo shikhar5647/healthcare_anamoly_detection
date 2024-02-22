@@ -20,7 +20,7 @@ Healthcare fraud detection is a critical area where machine learning and data an
 ## Data Preprocessing
 - Loaded the dataset and dropped unnecessary columns.
 - Removed null values and duplicated rows.
-- Removed commas from numerical data for consistency.
+- Removed commas from the numerical data for consistency.
 
 ## Exploratory Data Analysis (EDA)
 - Conducted exploratory data analysis to gain insights into the data distribution and identify potential anomalies.
